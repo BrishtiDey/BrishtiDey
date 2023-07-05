@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Brishti Dey</h1>
-<h3 align="center">A passionate Developer from India</h3>
+<h3 align="center">A passionate Developer</h3>
 
 <img align="right" alt="coding" width="300" src="https://img.freepik.com/premium-vector/woman-programmer-software-web-development-computer-girl-work-script-coding-programming_352905-203.jpg">
 
