@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Brishti Dey</h1>
 <h3 align="center">A passionate Developer</h3>
 
-<img align="right" alt="coding" width="260" src="https://img.freepik.com/premium-vector/woman-programmer-software-web-development-computer-girl-work-script-coding-programming_352905-203.jpg">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=brishtidey&label=Profile%20views&color=0e75b6&style=flat" alt="brishtidey" /> </p>
-
 - 🌱 I’m currently learning *Java*
+
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=brishtidey&label=Profile%20views&color=0e75b6&style=flat" alt="brishtidey" /> </p>
+  <div id="header" align="center">
+  <img src="https://media2.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif?cid=ecf05e47zq78s6qn890xve70hoctitiddm1u4es9aom1rr2c&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="100"/>
+</div>
 
 ### Contact Me
 <p>
