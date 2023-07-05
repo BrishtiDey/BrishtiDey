@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brishtidey&label=Profile%20views&color=0e75b6&style=flat" alt="brishtidey" /> </p>
 
-- 🌱 I’m currently learning *Tableau*
+- 🌱 I’m currently learning *Java*
 
 - 📫 How to reach me *brishtidey17@gmail.com*
 
